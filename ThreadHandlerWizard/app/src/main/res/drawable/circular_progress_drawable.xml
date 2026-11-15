@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景灰色圓環 -->
+    <item android:id="@android:id/background">
+        <shape
+            android:shape="ring"
+            android:innerRadiusRatio="2.5"
+            android:thicknessRatio="15.0"
+            android:useLevel="false">
+            <solid android:color="#A8A8A8" />
+        </shape>
+    </item>
+    <!-- 進度漸層圓環 (從上方 -90 度開始順時針) -->
+    <item android:id="@android:id/progress">
+        <rotate
+            android:fromDegrees="-90"
+            android:toDegrees="-90">
+            <shape
+                android:shape="ring"
+                android:innerRadiusRatio="2.5"
+                android:thicknessRatio="15.0"
+                android:useLevel="true">
+                <gradient
+                    android:type="sweep"
+                    android:useLevel="false"
+                    android:startColor="#00C4CC"
+                    android:centerColor="#3B59E8"
+                    android:endColor="#6A00F4" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

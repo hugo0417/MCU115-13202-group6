@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThreadHandlerWizard</string>
+    <string name="tab_progress">Progress</string>
+    <string name="tab_result">Result</string>
+    <string name="tab_start">Start</string>
+    <style name="Theme.ThreadHandlerWizard" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#5E4B8B</item>
+    </style>
+</resources>

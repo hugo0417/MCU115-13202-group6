@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ThreadHandlerWizard" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#5E4B8B</item>
+    </style>
+</resources>

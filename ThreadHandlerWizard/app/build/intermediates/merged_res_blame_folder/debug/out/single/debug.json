@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/raw_bgm.wav.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/raw/bgm.wav"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/layout_frag_result.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/layout/frag_result.xml"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/drawable_circular_progress_drawable.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/drawable/circular_progress_drawable.xml"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/layout_frag_progress.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/layout/frag_progress.xml"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/drawable_circular_progress_bg.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/drawable/circular_progress_bg.xml"
+    },
+    {
+        "merged": "com.example.threadhandlerwizard.app-merged_res-38:/layout_frag_start.xml.flat",
+        "source": "com.example.threadhandlerwizard.app-main-40:/layout/frag_start.xml"
+    }
+]

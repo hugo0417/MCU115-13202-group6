@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable circular_progress_bg
+drawable circular_progress_drawable
+id btnCancel
+id btnStart
+id pager
+id progressBar
+id tabs
+id txt
+id txtPercent
+id txtResult
+layout activity_main
+layout frag_progress
+layout frag_result
+layout frag_start
+raw bgm
+string app_name
+string tab_progress
+string tab_result
+string tab_start
+style Theme.ThreadHandlerWizard
