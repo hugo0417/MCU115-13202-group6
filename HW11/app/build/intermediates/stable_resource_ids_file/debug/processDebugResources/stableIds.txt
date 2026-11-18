@@ -1,0 +1,1 @@
+com.example.smartpomodoro:style/AppTheme = 0x7f010000

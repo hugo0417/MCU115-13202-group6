@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:2:5-77
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:2:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:3:5-81
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:3:22-78
+application
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:5-16:19
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:5-16:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:50-71
+	android:allowBackup
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:72-98
+	android:theme
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:18-49
+activity#com.example.smartpomodoro.FinishActivity
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:9-77
+	android:exported
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:50-74
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:19-49
+activity#com.example.smartpomodoro.MainActivity
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:exported
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:48-71
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:7:13-10:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:9:27-74
+service#com.example.smartpomodoro.TimerService
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:9-74
+	android:exported
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:47-71
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:18-46
+receiver#com.example.smartpomodoro.BootReceiver
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:9-15:20
+	android:enabled
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:48-70
+	android:exported
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:71-94
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:13-106
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:28-90
+	android:name
+		ADDED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:36-87
+uses-sdk
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml
