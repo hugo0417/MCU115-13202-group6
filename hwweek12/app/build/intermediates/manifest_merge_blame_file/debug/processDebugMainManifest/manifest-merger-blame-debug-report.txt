@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.usedcardealer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:2:5-9:19
+12        android:allowBackup="true"
+12-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:2:76-102
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="中古車商車輛資料庫"
+15-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:2:50-75
+16        android:supportsRtl="true"
+16-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:2:103-129
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:2:18-49
+19        <activity
+19-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:3:9-8:20
+20            android:name="com.example.usedcardealer.MainActivity"
+20-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:3:19-47
+21            android:exported="true" >
+21-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:3:48-71
+22            <intent-filter>
+22-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:4:13-7:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:5:17-69
+23-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:5:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:6:17-77
+25-->C:\Users\yunxi\Desktop\UsedCarDealer\app\src\main\AndroidManifest.xml:6:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
