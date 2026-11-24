@@ -9,67 +9,67 @@
 9        android:targetSdkVersion="28" />
 10
 11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-11-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:2:5-77
-11-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:2:22-74
+11-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:2:5-77
+11-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:2:22-74
 12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-12-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:3:5-81
-12-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:3:22-78
+12-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:3:5-81
+12-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:3:22-78
 13
 14    <application
-14-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:5-16:19
+14-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:4:5-16:19
 15        android:allowBackup="true"
-15-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:72-98
+15-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:4:72-98
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
 18        android:label="智慧番茄鐘"
-18-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:50-71
+18-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:4:50-71
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:4:18-49
+20-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:4:18-49
 21        <activity
-21-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:9-77
+21-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:5:9-77
 22            android:name="com.example.smartpomodoro.FinishActivity"
-22-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:19-49
+22-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:5:19-49
 23            android:exported="false" />
-23-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:5:50-74
+23-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:5:50-74
 24        <activity
-24-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:9-11:20
+24-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:6:9-11:20
 25            android:name="com.example.smartpomodoro.MainActivity"
-25-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:19-47
+25-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:6:19-47
 26            android:exported="true" >
-26-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:6:48-71
+26-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:6:48-71
 27            <intent-filter>
-27-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:7:13-10:29
+27-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:7:13-10:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:8:17-69
-28-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:8:25-66
+28-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:8:17-69
+28-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:8:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:9:17-77
-30-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:9:27-74
+30-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:9:17-77
+30-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:9:27-74
 31            </intent-filter>
 32        </activity>
 33
 34        <service
-34-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:9-74
+34-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:12:9-74
 35            android:name="com.example.smartpomodoro.TimerService"
-35-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:18-46
+35-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:12:18-46
 36            android:exported="false" />
-36-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:12:47-71
+36-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:12:47-71
 37
 38        <receiver
-38-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:9-15:20
+38-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:13:9-15:20
 39            android:name="com.example.smartpomodoro.BootReceiver"
-39-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:19-47
+39-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:13:19-47
 40            android:enabled="true"
-40-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:48-70
+40-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:13:48-70
 41            android:exported="true" >
-41-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:13:71-94
+41-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:13:71-94
 42            <intent-filter>
-42-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:13-106
+42-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:14:13-106
 43                <action android:name="android.intent.action.BOOT_COMPLETED" />
-43-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:28-90
-43-->C:\Users\yunxi\Desktop\SmartPomodoro\app\src\main\AndroidManifest.xml:14:36-87
+43-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:14:28-90
+43-->C:\Users\yunxi\Desktop\mcu115-1302-group6\HW11\app\src\main\AndroidManifest.xml:14:36-87
 44            </intent-filter>
 45        </receiver>
 46    </application>

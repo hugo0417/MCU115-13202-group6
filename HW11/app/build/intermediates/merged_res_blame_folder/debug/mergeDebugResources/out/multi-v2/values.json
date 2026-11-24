@@ -4,7 +4,7 @@
             "outputFile": "com.example.smartpomodoro.app-mergeDebugResources-2:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yunxi\\Desktop\\SmartPomodoro\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\yunxi\\Desktop\\mcu115-1302-group6\\HW11\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
